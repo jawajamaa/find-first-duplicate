@@ -11,6 +11,17 @@ def find_first_duplicate(num_list):
         
     return -1
 
+# given solution:
+# def find_first_duplicate(arr):
+    
+#     unique_nums = set()
+
+#     for num in arr:
+#         if num in unique_nums:
+#             return num
+#         unique_nums.add(num)
+
+#     return -1
     
 
 
